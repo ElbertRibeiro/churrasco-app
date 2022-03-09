@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - Expo
 - JavaScript
-- React-Native
+- React-Native'
 
 ## 💻 Projeto
 
